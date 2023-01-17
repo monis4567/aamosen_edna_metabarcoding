@@ -1,0 +1,9 @@
+Mad.t45         CTATAA  CTATAA
+Tisin9.t46      AATGAA  AATGAA
+Tisin12.t47     CGAATC  CGAATC
+Tisout9.t48     AGAGAC  AGAGAC
+Tisout12.t49    TTCGGA  TTCGGA
+Bos9.t50        CGACGT  CGACGT
+Bos12.t51       CTCATG  CTCATG
+NC.t52          TGTATA  TGTATA
+MOCK.t53        ACAACC  ACAACC
